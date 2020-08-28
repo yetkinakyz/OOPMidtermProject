@@ -1,0 +1,9 @@
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\bin\Debug\AraSinav.exe.config
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\bin\Debug\AraSinav.exe
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\bin\Debug\AraSinav.pdb
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Debug\AraSinav.csprojResolveAssemblyReference.cache
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Debug\AraSinav.Properties.Resources.resources
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Debug\AraSinav.csproj.GenerateResource.Cache
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Debug\AraSinav.exe
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Debug\AraSinav.pdb
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Debug\AraSinav.FormMain.resources
