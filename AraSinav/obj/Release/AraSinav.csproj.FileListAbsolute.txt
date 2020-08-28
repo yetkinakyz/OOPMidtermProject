@@ -1,0 +1,17 @@
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\bin\Release\AraSinav.exe.config
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\bin\Release\AraSinav.exe
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\bin\Release\AraSinav.pdb
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Release\AraSinav.FormMain.resources
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Release\AraSinav.Properties.Resources.resources
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Release\AraSinav.csproj.GenerateResource.Cache
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Release\AraSinav.exe
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\AraSinav\AraSinav\obj\Release\AraSinav.pdb
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\bin\Release\AraSinav.exe.config
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\obj\Release\AraSinav.exe
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\obj\Release\AraSinav.pdb
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\bin\Release\AraSinav.exe
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\bin\Release\AraSinav.pdb
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\obj\Release\AraSinav.csprojResolveAssemblyReference.cache
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\obj\Release\AraSinav.FormMain.resources
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\obj\Release\AraSinav.Properties.Resources.resources
+C:\Users\yetkinakyuz\Desktop\OOP Projets\Midterm\Proje Dosyaları\AraSinav\obj\Release\AraSinav.csproj.GenerateResource.Cache
